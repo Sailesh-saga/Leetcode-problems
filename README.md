@@ -20,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0567-permutation-in-string) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1260-shift-2d-grid) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Matrix
 |  |
 | ------- |
