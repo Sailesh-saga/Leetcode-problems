@@ -21,4 +21,16 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
