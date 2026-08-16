@@ -38,6 +38,7 @@
 | [0015-3sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
@@ -53,6 +54,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
