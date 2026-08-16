@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
