@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -51,10 +52,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
