@@ -34,12 +34,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0054-spiral-matrix) |
@@ -102,6 +104,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
