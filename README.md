@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -40,6 +41,7 @@
 | [0048-rotate-image](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -55,6 +57,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
