@@ -34,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
@@ -43,6 +44,7 @@
 | [0053-maximum-subarray](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -100,5 +102,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
