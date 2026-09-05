@@ -80,6 +80,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [2090-k-radius-subarray-averages](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2090-k-radius-subarray-averages) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1260-shift-2d-grid) |
+| [1920-build-array-from-permutation](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
