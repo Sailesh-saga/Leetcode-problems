@@ -73,6 +73,7 @@
 | [1260-shift-2d-grid](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [2090-k-radius-subarray-averages](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2090-k-radius-subarray-averages) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -83,6 +84,7 @@
 | [0054-spiral-matrix](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
