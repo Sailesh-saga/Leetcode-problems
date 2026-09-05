@@ -75,6 +75,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,4 +182,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0409-longest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
