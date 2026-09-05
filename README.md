@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -185,5 +186,10 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
