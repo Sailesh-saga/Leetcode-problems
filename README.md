@@ -11,6 +11,7 @@
 | [0409-longest-palindrome](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0567-permutation-in-string) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -95,6 +96,7 @@
 | [1920-build-array-from-permutation](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2090-k-radius-subarray-averages) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
@@ -121,6 +123,7 @@
 ## Counting
 |  |
 | ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -161,6 +164,7 @@
 | [0088-merge-sorted-array](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Quicksort
 |  |
 | ------- |
