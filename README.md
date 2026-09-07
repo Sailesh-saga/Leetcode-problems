@@ -10,6 +10,7 @@
 | [0242-valid-anagram](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -82,6 +83,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0704-binary-search) |
@@ -190,8 +192,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
