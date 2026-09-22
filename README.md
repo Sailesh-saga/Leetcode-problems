@@ -84,6 +84,7 @@
 | [0283-move-zeroes](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0704-binary-search) |
@@ -202,4 +203,16 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Sailesh-saga/Leetcode-problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
